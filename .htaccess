@@ -1,5 +1,7 @@
 # -FrontPage-
 
+
+
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
 <Limit GET POST>
@@ -82,10 +84,10 @@ php_flag magic_quotes_gpc off
 ###################################################################################################################################################################################
 ErrorDocument 404 "<hr><b>Ooops! The document you have been searching for was not found. The document may have been removed or it never existed.!<br/>To find lost documents we recommend that you start browsing from our <a href='http://wapbies.com'>Home Page</a></b><hr>"
 
-ErrorDocument 403 "<b>Access Forbidden by wapbies.com!</b>"
+ErrorDocument 403 "<b>Access Forbidden by wapbies.com !</b>"
 
 ErrorDocument 500 "<b>Internal Server Error!<br />Refresh your browser, if still the same then kindly report to admin@wapbies.com</b>"
-#################################################################################################################################################################################
+###################################################################################################################################################################################
 
 <Files indexquotes.txt>
 Deny from all
