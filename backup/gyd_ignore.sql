@@ -1,0 +1,2 @@
+INSERT INTO gyd_ignore VALUES ('1','10404','10033');
+INSERT INTO gyd_ignore VALUES ('2','10505','10509');

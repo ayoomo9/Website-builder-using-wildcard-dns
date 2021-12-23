@@ -1,0 +1,10 @@
+INSERT INTO gyd_gbook VALUES ('2','10298','10294','Babe, i need you, mwah! ','1251753054');
+INSERT INTO gyd_gbook VALUES ('3','10158','10294','Luv you.','1251761265');
+INSERT INTO gyd_gbook VALUES ('4','10158','10294','Luv you babe.','1251761272');
+INSERT INTO gyd_gbook VALUES ('6','10358','10265','Please Sir am Nwafor O C also one of d member of WAPBIES.COM Sir i need ur help i want to update my profie on dis things lik updating my (aka)and picture and som other things please i need ur help.','1251841343');
+INSERT INTO gyd_gbook VALUES ('7','46','10394','Code.....Cheat let go','1251863523');
+INSERT INTO gyd_gbook VALUES ('8','10129','268','Thanks 4 being a friend','1251881459');
+INSERT INTO gyd_gbook VALUES ('9','10207','211','Pm me','1253770293');
+INSERT INTO gyd_gbook VALUES ('10','10316','10291','Love is what U ve found','1254067563');
+INSERT INTO gyd_gbook VALUES ('11','10316','10288','U r damn fast wiseking.....thankz 4 being my frnd dearie.','1254187681');
+INSERT INTO gyd_gbook VALUES ('12','10554','10291','What zup! Just stop by 2 say hi','1257450147');

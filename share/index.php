@@ -1,0 +1,4 @@
+<?php
+
+echo "HACKING IS A CRIMINAL OFFENCE";
+?>

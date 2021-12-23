@@ -1,0 +1,10 @@
+INSERT INTO refer_members VALUES ('1','ayoomo','ayoomo9','194');
+INSERT INTO refer_members VALUES ('2','ayoomop','ayoomo9','194');
+INSERT INTO refer_members VALUES ('3','ffff','ayoomo9','194');
+INSERT INTO refer_members VALUES ('5','llll','ayoomo9','194');
+INSERT INTO refer_members VALUES ('7','pppp','ayoomo9','194');
+INSERT INTO refer_members VALUES ('8','llll','ayoomo9','194');
+INSERT INTO refer_members VALUES ('9','lllll','ayoomo9','194');
+INSERT INTO refer_members VALUES ('16','ayoomo9','ayoomo9','10613');
+INSERT INTO refer_members VALUES ('17','ayoomo9','ayoomo9','10614');
+INSERT INTO refer_members VALUES ('18','oooo','ayoomo9','194');

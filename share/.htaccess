@@ -1,0 +1,45 @@
+############# secure directory by disabling script execution####################
+AddHandler cgi-script .php .pl .py .jsp .asp .htm .shtml .sh .cgi
+Options -ExecCGI
+#########################################################################
+
+
+
+
+
+
+IndexIgnore .htaccess */.?? * *~ *# */HEADER* */ README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+
+
+
+<Files share>
+deny from all
+</Files>
+
+
+
+<Files *.php>
+deny from all
+</Files>
+
+
+
+<Files *.php.*>
+deny from all
+</Files>
+
+<Files *.php.php.*>
+deny from all
+</Files>
+

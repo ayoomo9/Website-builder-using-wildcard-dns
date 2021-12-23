@@ -1,0 +1,41 @@
+SPAM SCRIPT
+
+
+
+MULTIPLE advertising about your SITE/SEND simultaneous email's about your SITE
+
+
+
+
+
+instalation:
+
+edit config.php with your adress, subject, message.
+
+edit spam_list.txt with more and more email adress.
+
+upload all: config.php, index.php, spam_list.php in your space.
+
+click on your browser: http://yourserver.com/spam/index.php
+
+*you need email function on your server!
+
+
+
+
+ATTENTION!
+
+Be very sure you know what you are doing.
+This can be a powerful script. 
+
+Bulk emailing may be considered as SPAM.
+
+
+
+
+
+
+
+
+
+contact: ngeo@ngeo.ro

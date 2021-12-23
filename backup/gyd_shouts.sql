@@ -1,0 +1,2 @@
+INSERT INTO gyd_shouts VALUES ('226','','194','1265979902');
+INSERT INTO gyd_shouts VALUES ('225','hi','194','1265979509');

@@ -1,0 +1,279 @@
+/* CSS Document */
+
+body {
+   background-color: #C1DD85;
+font-family :Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: 0px;
+	padding: 4px;
+   text-align: left;
+   color: #008000;
+   
+ border: 0px solid #FFCC33;
+}
+
+
+
+
+h3 {
+background-color:#FFFFFF;
+color:#009933;
+border: 1px solid #009933;
+text-align: center;
+margin:0px;
+font-size: 13px;
+}
+
+div.whitegreen {
+background-color:#FFFFFF;
+color:#009933;
+border: 1px solid #009933;
+text-align: center;
+margin:0px;
+font-weight:bold;
+}
+
+textarea
+{
+background-color:#FFCC33;
+
+}
+table
+{
+width:100%;
+}
+input{
+background-color:#FFCC33;
+color:#006600;
+
+}
+
+
+
+div{
+clear:both;
+width:100%;
+}
+
+select 
+{
+background-color:#FFFFFF;
+color:#008000;
+border: 1px solid #000000
+}
+p {
+padding:0px;
+margin: 0px 0px 0px 0px;
+font-family : Helvetica;
+}
+
+
+hr {
+
+        background-color: #FFCC66;
+        color: #000000;
+        border: none;
+        height: 1px;
+		font-family : Helvetica;
+}
+
+a, a:active  {
+   color: #009933;
+}
+a:visited {
+   color: #009933;
+}
+a:hover {
+   color: #000000;
+}
+a.admn:link {color:#8B0000}
+a.admn:visited {color:#8B0000}
+a.modr:link {color:#008000}
+a.modr:visited {color:#008000}
+a.acro:visited {color:#009999}
+a.acro:link {color:#009999}
+
+ .bo {
+   padding: 2px 2px;
+ border: 1px solid #00FF00;
+
+
+}
+div.copy
+{
+text-align: center;
+}
+div.center
+{
+text-align: center;
+margin: 0px;
+
+}
+
+div.whiteonred
+{
+text-align: center;
+margin: 0px;
+
+}
+div.ads {
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: #ff3300;
+	background-color: #FFCC33;
+	border-bottom: 1px solid #5FEE57;
+	border-top: 1px solid #DDDDDD;
+	text-align: center;
+
+}
+
+
+
+div.signup {
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: #ff3300;
+	background-color: #FFCC33;
+	border-bottom: 1px solid #5FEE57;
+	border-top: 1px solid #DDDDDD;
+	text-align: center;
+
+}
+
+
+
+
+
+
+div.ahtop {
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: black;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+}
+
+.font{
+	
+	margin: 0px;
+	padding: 2px;
+	color: black;
+	background-color: #C9FAC7;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+
+	text-align: center;	
+}
+div.preview {
+	
+	padding: 0px 0px 3px 0px;
+	color: #A7CC9D;
+	background-color: #F7F7F7;
+	border-bottom: 1px solid #D0E4CB;
+	text-align: left;
+
+}
+
+div.prof {
+      margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: green;
+	background-color: #F0F8FF;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: left;
+
+}
+div.prof2 {
+      margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: green;
+	background-color: #F0F8FF;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+
+}
+
+div.ahtopp {
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: black;
+	background-color: #C9FAC7;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+
+}
+div.adminmsg {
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 3px 0px;
+	color: red;
+	background-color: #C9FAC7;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+
+}
+
+div.ahlogo {
+	margin: -2px -2px -2px -2px;
+	padding: 0px 0px 5px 0px;
+	color: #ffffff;
+	background-color: #A7CC9D;
+	border-bottom: 3px solid #D0E4CB;
+	
+	text-align: center;
+	
+}
+
+
+
+.in_cont {
+
+      border: dotted 1px /*#2F4F4F*/#8FBC8F;
+      padding: 4px 4px 5px 4px;
+      margin: 4px auto;
+}
+
+
+
+
+.divider {
+      border-bottom: solid 1px #DCDCDC;
+      padding: 3px 0px 3px 0px;
+}
+.divider_hover {
+      border-bottom: solid 1px #DCDCDC;
+      padding: 3px 0px 3px 0px;
+      background: #FAFAD2;
+}
+
+
+
+
+.fontmain{
+	
+	margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-top: 0px;
+	padding: 0px;
+	color:#000000;
+	background-color: #C1DD85;
+	border-bottom: 1px solid #009933;
+	border-top: 1px solid #009933;
+	text-align: center;
+
+
+	text-align: center;	
+
+}
+img
+{
+border:0px;
+
+}
